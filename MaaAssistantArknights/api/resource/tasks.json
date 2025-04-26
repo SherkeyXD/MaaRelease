@@ -1,5 +1,10 @@
 {
     "ClueSelected": {
         "exceededNext": ["CloseSendClue"]
+    },
+    "BB-Open": {
+        "baseTask": "SS-Open",
+        "template": "StageSideStory.png",
+        "next": ["BBChapterToBB"]
     }
 }
