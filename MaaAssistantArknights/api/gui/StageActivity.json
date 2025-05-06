@@ -56,7 +56,7 @@
             {
                 "Display": "MT-6",
                 "Value": "MT-6",
-                "Drop": "搓玉效率0.7",
+                "Drop": "搓玉效率0.69",
                 "MinimumRequired": "v5.10.0",
                 "Activity": {
                     "Tip": "SideStory「众生行记」",
